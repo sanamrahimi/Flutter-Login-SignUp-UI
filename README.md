@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# ogin_signup_pages_flutter
-=======
+
 # login_signup_page
 
 A new Flutter project.
